@@ -2,8 +2,11 @@
 
 ## Warum wir git verwenden
 
-1. Teamfähig
-1. backup
-1. zurück zur vorherigen Version
+* Teamfähig
+* backup
+* zurück zur vorherigen Version
 
-## Nächster Kurs HTML
+## Bilder und Links
+
+![Seegrube](Seegrube.jpg)
+Quelle: [Bild von der Seegrube](https://www.foto-webcam.eu/webcam/innsbruck/)
